@@ -12,6 +12,7 @@ namespace BillingApp.Models
 
     public class ExternalLoginListViewModel
     {
+        //showing returnUrl
         public string ReturnUrl { get; set; }
     }
 
