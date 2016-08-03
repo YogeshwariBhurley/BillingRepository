@@ -7,6 +7,7 @@ namespace BillingApp.Models
 {
     public class JQObject
     {
+        //JQObject entity
         public int SrNo { get; set; }
         public int ProductID { get; set; }
         public string Name { get; set; }
